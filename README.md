@@ -1,4 +1,4 @@
-# Focal loss for the Multi-class semantic segmentation in PyTorch
+# Focal loss for Multi-class semantic segmentation in PyTorch
 PyTorch implementation of focal loss for multi-class semantic segmentation.  
 
 If you want to use the alpha form focal loss, you need to do two things:
